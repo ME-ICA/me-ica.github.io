@@ -1,0 +1,15 @@
+site_name: The ME-ICA organization
+site_url: https://me-ica.github.io
+theme:
+    name: material
+    custom_dir: theme
+    favicon: images/favicon.png
+    logo: images/favicon.png
+markdown_extensions:
+    - toc:
+        anchorlink: true
+    - admonition
+    - lightgallery
+docs_dir: 'docs'
+nav:
+    - The ME-ICA Organization: index.md
