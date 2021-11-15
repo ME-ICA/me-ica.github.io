@@ -40,6 +40,17 @@ This site provides a landing page to summarize resources within the ME-ICA organ
 
 [ddmra][] is a Python package for performing distance-dependent motion-related artifact analyses.
 
+
+## Scientific Conferences
+
+We have documented the progress of tedana at the Organization
+For Human Brain Mapping annual meetings. For several years,
+we have shared the tedana poster, an interactive demonstration of the results
+and compiled other multi-echo posters and presentations at the conference.
+- [OHBM 2021][]
+- [OHBM 2020][]
+- [OHBM 2019][]
+
 <!-- links -->
 [aroma]: https://github.com/ME-ICA/aroma
 [ddmra]: http://ddmra.readthedocs.io
@@ -47,3 +58,6 @@ This site provides a landing page to summarize resources within the ME-ICA organ
 [mapca]: https://github.com/ME-ICA/mapca
 [rica]: https://github.com/ME-ICA/rica
 [tedana]: https://tedana.readthedocs.io
+[OHBM 2021]: https://github.com/ME-ICA/ohbm-2021-multiecho
+[OHBM 2020]: https://github.com/ME-ICA/tedana-ohbm-2020
+[OHBM 2019]: https://github.com/ME-ICA/tedana-ohbm-2019
