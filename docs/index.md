@@ -41,7 +41,7 @@ recommend people use ``tedana`` instead of this.
 
 # Works in progress
 
-We welcome contributors, but there are not ready for general use.
+We welcome contributors, but these tools are not ready for general use.
 
 ## Multi-Echo (fMRI) Data Analysis Book
 
